@@ -6,8 +6,6 @@
 
 📧 **Email :** skw4223@naver.com
 
-**🐬 GitHub :** [https://github.com/skw4223](https://github.com/skw4223)
-
 📚 **Blog :** [https://gyeongwons.tistory.com/](https://gyeongwons.tistory.com/)
 
 🧑🏻 **PortFolio :** [PortFolio Link](https://curly-crowberry-6e3.notion.site/42c446ede7134f3ea43a116e6ff7fda9?pvs=4)
